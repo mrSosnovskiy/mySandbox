@@ -2,6 +2,6 @@
 mySandbox
 
 
-'''bash
-    python -m venv .venv
-'''
+``` bash
+python -m venv .venv
+```
