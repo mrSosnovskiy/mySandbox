@@ -209,3 +209,9 @@ __marimo__/
 minio/
 cred.py
 logs/
+
+.idea/
+dags/empty_dag.py
+dags/std13_102_dag.py
+postgres-dwh-volume/
+req.txt
